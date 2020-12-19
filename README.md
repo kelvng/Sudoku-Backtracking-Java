@@ -1,5 +1,4 @@
-# Sudoku AI
-*Author*: Minh Anh Nguyen  
+# Sudoku 
 This project creates a GUI application that can solve any sudoku puzzles using orginal backtrack and heuristic backtrack algorithms  
 ## How to use
 **Option 1**: directly open the SudokuAI.jar file  
