@@ -18,7 +18,4 @@ This project creates a GUI application that can solve any sudoku puzzles using o
 **Reset**: clean the board, delete all numbers  
 **Hint**: reveal an answer of a cell, the order is based on the route of the chosen algorithm  
 
-## App Interface
-The AI is solving a sudoku puzzle.
-![App Solving](screenshots/app_solving.png?raw=true "App Solving")
 
